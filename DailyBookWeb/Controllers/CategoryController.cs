@@ -1,4 +1,5 @@
 ﻿using DailyBookWeb.Data;
+using DailyBookWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DailyBookWeb.Controllers
@@ -14,8 +15,8 @@ namespace DailyBookWeb.Controllers
 
         public IActionResult Index()
         {
-            var objCategoryList = _db.Categories.ToList();
-            return View();
+            IEnumerable<Category> objCategoryList = _db.Categories;
+            return View(objCategoryList);
         }
     }
 }
