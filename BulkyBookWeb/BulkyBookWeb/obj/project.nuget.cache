@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lX0dZVkRFP3AJtcfjcJIWXet/shd4lxNmvixiUlCGQx7v/VBmR0YfgUSjiA1mo3w4YQetLa5Zka4cQFOC+CSXA==",
+  "dgSpecHash": "AumNlXxGUqhQ9jnFFe7CSebESPmInFkgMzaJi8efkBekkO0zRWffQmCfuUPljsOLuOxpd2E7jmkpi5kxQuD9fA==",
   "success": true,
   "projectFilePath": "C:\\Coding\\Tutorials\\AspDotNetMVC\\BulkyBookWeb\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lomba\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.11\\microsoft.aspnetcore.mvc.razor.extensions.6.0.11.nupkg.sha512",
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.11\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.11.nupkg.sha512",
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
@@ -17,8 +18,10 @@
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.11\\microsoft.entityframeworkcore.6.0.11.nupkg.sha512",
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.11\\microsoft.entityframeworkcore.abstractions.6.0.11.nupkg.sha512",
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.11\\microsoft.entityframeworkcore.analyzers.6.0.11.nupkg.sha512",
+    "C:\\Users\\lomba\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.11\\microsoft.entityframeworkcore.design.6.0.11.nupkg.sha512",
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.11\\microsoft.entityframeworkcore.relational.6.0.11.nupkg.sha512",
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.11\\microsoft.entityframeworkcore.sqlserver.6.0.11.nupkg.sha512",
+    "C:\\Users\\lomba\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.11\\microsoft.entityframeworkcore.tools.6.0.11.nupkg.sha512",
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\lomba\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
