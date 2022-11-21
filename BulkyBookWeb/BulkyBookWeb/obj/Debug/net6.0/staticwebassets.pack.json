@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Coding\\Tutorials\\AspDotNetMVC\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\css\\solar.css",
+      "PackagePath": "staticwebassets\\css\\solar.css"
+    },
+    {
       "Id": "C:\\Coding\\Tutorials\\AspDotNetMVC\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
