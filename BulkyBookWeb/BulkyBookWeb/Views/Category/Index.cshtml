@@ -27,6 +27,7 @@
                 <th>
                     Display Order
                 </th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -38,6 +39,9 @@
                     </td>
                     <td width="30%">
                         @obj.DisplayOrder
+                    </td>
+                    <td class="w-100 btn-group" role="group">
+                        <a asp-controller="Category" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2"><i class="bi bi-pencil-square"></i> Edit</a>
                     </td>
                 </tr>
             }
